@@ -1,6 +1,6 @@
 # mega-sena-simulator
 
-##Simulador da Mega Sena
+## Simulador da Mega Sena
 
 Eu criei um simulador de apostas da Mega Sena usando DOM em Javascript.
 
