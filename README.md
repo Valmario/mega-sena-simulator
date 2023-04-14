@@ -13,3 +13,5 @@ Eu usei as seguintes linguagens para criar esse projeto:
 - HTML;
 - CSS;
 - JavaScript.
+
+https://megasena-simulator.netlify.app/
